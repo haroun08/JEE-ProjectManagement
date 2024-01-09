@@ -1,0 +1,17 @@
+<datasources>
+
+    <datasource jndi-name="java:/HarounDS"
+     pool-name="HarounDS_Pool2" enabled="true"
+     use-java-context="true">
+        <connection-url>jdbc:mysql://localhost:3306/haroun</connection-url>
+        <driver>mysql</driver>
+
+        <security>
+            <user-name>root</user-name>
+            <password>SQL_2023test</password>
+        </security>
+        
+    </datasource>
+
+
+</datasources>
