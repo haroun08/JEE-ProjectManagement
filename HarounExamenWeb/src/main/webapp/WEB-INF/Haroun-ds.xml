@@ -8,7 +8,7 @@
 
         <security>
             <user-name>root</user-name>
-            <password>SQL_2023test</password>
+            <password>root</password>
         </security>
         
     </datasource>
